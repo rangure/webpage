@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xqi.github.io/sitemap.xml
+Sitemap: https://rangure.github.io/sitemap.xml
